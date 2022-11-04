@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @borisdelaat
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
+- 📫 How to reach me borisdelaat@gmail.com
